@@ -1,4 +1,5 @@
 # Rise on Linux
+## This script no longer works(Rise developers broke native support)
 
 [Supported versions](./docs/supported-versions.md)
 
@@ -9,5 +10,3 @@ This is a workaround to run [Rise Client](https://riseclient.com) on Linux(nativ
 [Using the script](https://github.com/enorsu/rise-on-linux/blob/main/docs/using.md)
 
 [Tutorial video](https://youtu.be/1q60pBvwIWo)
-
-This script is made by a member of Rise.
